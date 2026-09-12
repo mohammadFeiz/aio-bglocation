@@ -1,6 +1,6 @@
 {
-  "name": "aio-bglocation",
-  "version": "0.0.1",
+  "name": "aio-capacitor-bglocation",
+  "version": "1.0.0",
   "description": "send location in background",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
